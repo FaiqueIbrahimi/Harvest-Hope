@@ -1,0 +1,5 @@
+# Ignore all .env files
+*.env
+
+# If there's a specific .env file you want to track, you can unignore it by adding this line:
+# !example.env
