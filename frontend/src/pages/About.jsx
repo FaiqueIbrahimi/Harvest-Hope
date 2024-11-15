@@ -20,7 +20,7 @@ const About = () => {
             Driving Innovation in Food Donation and Volunteering for a
               <HighlightText text={" Brighter Future"} />
               <p className="mx-auto mt-3 text-center text-base font-medium text-richblack-300 lg:w-[95%]">
-              Feed Forward is at the forefront of driving innovation in food donation and volunteering. We're passionate about creating a brighter future by offering streamlined event creation, leveraging emerging technologies, and nurturing a vibrant community of givers and volunteers.
+              Harvest Hope leads the way in revolutionizing food donation and volunteering. We are dedicated to building a brighter future by simplifying event creation, embracing cutting-edge technologies, and fostering a thriving community of donors and volunteers.
               </p>
             </header>
             <div className="sm:h-[70px] lg:h-[150px]"></div>

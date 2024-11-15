@@ -18,7 +18,7 @@ const ContactUs = () => {
                         <div>
                             <h1 className="text-lg font-semibold">Chat on us</h1>
                             <p className="text-sm">Our friendly team is here to help.</p>
-                            <button className="text-sm">@FeedForward.org</button>
+                            <button className="text-sm">@HarvestHope.org</button>
                         </div>
                     </div>
 

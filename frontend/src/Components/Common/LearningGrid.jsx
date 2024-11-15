@@ -8,7 +8,7 @@ const LearningGridArray = [
     heading: "Empowering Volunteering for",
     highlightText: "Everyone, Everywhere",
     description:
-      "Feed Forward collaborates with numerous local organizations and community groups to offer flexible, accessible, and impactful volunteering opportunities worldwide.",
+      "Harvest Hope collaborates with numerous local organizations and community groups to offer flexible, accessible, and impactful volunteering opportunities worldwide.",
     BtnText: "Learn More",
     BtnLink: "/",
   },
@@ -16,31 +16,31 @@ const LearningGridArray = [
     order: 1,
     heading: "Initiatives Aligned with Community Needs",
     description:
-      "Make a difference effectively! Feed Forward's programs are designed to address critical community issues and provide support where it's needed most.",
+      "Make a difference effectively! Harvest Hope's programs are designed to address critical community issues and provide support where it's needed most.",
   },
   {
     order: 2,
     heading: "Our Volunteer Approach",
     description:
-      "Feed Forward partners with a wide range of organizations to offer volunteering experiences that match your interests and skills.",
+      "Harvest Hope partners with a wide range of organizations to offer volunteering experiences that match your interests and skills.",
   },
   {
     order: 3,
     heading: "Certification and Recognition",
     description:
-      "Feed Forward provides certification for volunteers, acknowledging your contributions and skills gained through our programs.",
+      "Harvest Hope provides certification for volunteers, acknowledging your contributions and skills gained through our programs.",
   },
   {
     order: 4,
     heading: "Impact Tracking",
     description:
-      "Keep track of the impact you're making. Feed Forward ensures transparency and provides detailed reports on the results of our initiatives.",
+      "Keep track of the impact you're making. Harvest Hope ensures transparency and provides detailed reports on the results of our initiatives.",
   },
   {
     order: 5,
     heading: "Building Stronger Communities",
     description:
-      "Feed Forward is dedicated to strengthening communities by providing resources and support, promoting sustainability and long-term growth.",
+      "Harvest Hope is dedicated to strengthening communities by providing resources and support, promoting sustainability and long-term growth.",
   },
 ];
 

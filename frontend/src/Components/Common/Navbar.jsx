@@ -21,7 +21,7 @@ function Navbar(){
                 <Link to="/">
                     <div className="flex items-center gap-2">
                     <img src={logo} alt="Logo" width={50} height={24} loading="lazy"/>
-                    <span className="text-white text-md lg:3xl font-extrabold">Feed Forward</span>
+                    <span className="text-white text-md lg:3xl font-extrabold">Harvest Hope</span>
                     </div>
                 </Link>
 

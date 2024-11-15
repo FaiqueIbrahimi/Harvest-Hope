@@ -17,7 +17,7 @@ function HowWeWork() {
           <img src={foodDonated} className="w-full object-cover" alt="howWeWorkImages"/>
           <div className="text-center px-4 md:px-0">
             <div className="text-2xl md:text-3xl text-white font-bold mb-2 md:mb-5">Food is Donated</div>
-            <div>Banquets, farms, restaurants, cafeterias, hotels, stadiums, post excess food in under a minute on the Feed Forward App.</div>
+            <div>Banquets, farms, restaurants, cafeterias, hotels, stadiums, post excess food in under a minute on the Harvest Hope App.</div>
           </div>
         </div>
         <div className="w-full md:w-[30%] flex flex-col gap-4 md:gap-12 hover:bg-richblack-700 pb-10 hover:scale-105 transition-transform duration-300">
